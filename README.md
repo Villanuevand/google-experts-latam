@@ -1,4 +1,4 @@
-<img alt="logo-google-experts" src="https://a43d55f6a02c4be185ce-9cfa4cf7c673a59966ad8296f4c88804.ssl.cf3.rackcdn.com/Google-Developer-Expert/google-developers-experts.png" width="250">
+<img alt="logo-google-experts" src="https://cdn-images-1.medium.com/max/1600/1*AyeFx2i4x5rx62m1LFtI0Q.png" width="450">
 
 # Google Experts Latam 🌎
 
