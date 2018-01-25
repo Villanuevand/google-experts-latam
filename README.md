@@ -8,7 +8,7 @@
 - [Argentina 🇦🇷](/paises/argentina.md)
 - [Bolivia 🇧🇴](/paises/bolivia.md)
 - [Brasil 🇧🇷](/paises/brasil.md)
-- [Chile 🇧🇷](/paises/chile.md)
+- [Chile 🇨🇱](/paises/chile.md)
 - [Colombia 🇨🇴](/paises/colombia.md)
 - [Costa Rica 🇨🇷](/paises/costa-rica.md)
 - [Cuba 🇨🇺](/paises/cuba.md)
