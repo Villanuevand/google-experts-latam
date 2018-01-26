@@ -4,6 +4,12 @@
 
 🗂️ Conoce a los Expertos de Google en tu país 🌎 💻
 
+## ¿Que es un Google Expert?
+
+Los Google Developers Experts (GDE) es una red global de estrategas de productos experimentados, diseñadores, 
+desarrolladores y profesionales de marketing que apoyan activamente a desarrolladores, startups y compañías que 
+cambian el mundo a través de aplicaciones web y móviles.
+
 
 - [Argentina 🇦🇷](/paises/argentina.md)
 - [Bolivia 🇧🇴](/paises/bolivia.md)
