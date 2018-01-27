@@ -1,4 +1,4 @@
-# Chile 🇧🇷
+# Chile 🇨🇱
 
 <table>
   <tbody>
